@@ -11,7 +11,7 @@ metadata:
     rhdh.openshift.io/display-name: "Red Hat Developer Hub"
 spec:
   channel: fast
-  installPlanApproval: Automatic
+  installPlanApproval: Manual
   name: rhdh
   source: redhat-operators
   sourceNamespace: openshift-marketplace
