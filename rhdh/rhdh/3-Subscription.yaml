@@ -10,7 +10,7 @@ metadata:
     olm.operatorGroup: rhdh-operator
     rhdh.openshift.io/display-name: "Red Hat Developer Hub"
 spec:
-  channel: fast
+  channel: fast-1.5
   installPlanApproval: Manual
   name: rhdh
   source: redhat-operators
